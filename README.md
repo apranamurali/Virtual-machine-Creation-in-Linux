@@ -87,7 +87,8 @@ OUTPUT
 REG NUMBER: 212223220008
 NAME: Aparna.M
 VIRTUAL MACHINE CREATION IN LINUX
-WhatsApp Image 2025-03-05 at 10 18 16_f207ffa4
+![image](https://github.com/user-attachments/assets/c27579d1-88d3-474c-9b33-9de12c918877)
+
 
 RESULT
 Thus, this experiment helped in understanding the fundamentals of Linux commands and Bash scripting for automation and system management.
